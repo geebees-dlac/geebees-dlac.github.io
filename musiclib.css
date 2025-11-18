@@ -28,6 +28,13 @@ table tr td {
     font-size: 100px;
 }
 
+.musiclibitem .extra {
+    height: 155px;
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 .albumcov {
     width: 200px;
     height: 200px;
