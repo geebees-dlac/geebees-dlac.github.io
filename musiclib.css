@@ -1,0 +1,35 @@
+body {background-color: black;}
+body {color: yellow;}
+body {font-family: "Times New Roman";}
+
+table tr td {
+    border: 0px solid white;
+}
+
+.musiclibitem .albumcov {
+    width: 400px;
+    height: 400px;
+    margin: 25px 25px 0px 25px;
+}
+
+.musiclibitem .artistname {
+    padding-top: 230px;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.musiclibitem .releaseyear {
+    font-size: 20px;
+}
+
+.musiclibitem .albumname {
+    padding: 0px;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.albumcov {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
